@@ -12,4 +12,4 @@ jobs:
           DATAVERSE_SERVER: https://demo.borealisdata.ca/ 
           DATAVERSE_DATASET_DOI: doi:10.80240/FK2/OIBGUN
           GITHUB_DIR: Longitudinal_Research_Plan 
-          DELETE: False 
+          DELETE: True 
