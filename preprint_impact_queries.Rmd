@@ -39,7 +39,7 @@ headers = {
 post_url = '{}views/'.format(METRICS_BASE) # can change to '{}downloads' as well
 ```
 
-
+# Queries related to total/by provider views/downloads per unit of time
 # Queries related to total/by provider views/downloads per unit of time
 
 ```{python}
@@ -128,7 +128,7 @@ query = {
                 "users" : {
                     "terms" : {
                         "field" : "user_id",
-                        "size" : 5000
+                        "size" : 6000
                     }
                 }
             }
