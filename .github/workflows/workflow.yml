@@ -11,6 +11,8 @@ jobs:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}} 
           DATAVERSE_SERVER: https://demo.borealisdata.ca/ 
           DATAVERSE_DATASET_DOI: doi:10.80240/FK2/OIBGUN
+          GITHUB_DIR: Longitudinal_Research_Plan
+          GITHUB_DIR: SQL_queries
           DELETE: True 
           PUBLISH: True
       
