@@ -12,6 +12,7 @@ jobs:
           DATAVERSE_SERVER: https://demo.borealisdata.ca/ 
           DATAVERSE_DATASET_DOI: doi:10.80240/FK2/OIBGUN
           DELETE: True 
+          PUBLISH: True
       
                     
           
